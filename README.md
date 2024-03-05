@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Extra20Percent</h1>
 <h3 align="center">Newbie frontend and backend programmer, editor, and at SEO!</h3>
 
-![logo](https://github.com/Extra20Percent/Tes/blob/main/kobok4.png)
+![logo](https://github.com/Extra20Percent/Extra20Percent/blob/main/kobok4.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=extra20percent&label=Profile%20views&color=0e75b6&style=flat" alt="extra20percent" /> </p>
 
